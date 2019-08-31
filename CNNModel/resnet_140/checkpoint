@@ -1,0 +1,7 @@
+model_checkpoint_path: "/home/xg666/Desktop/zdocktrain/savemodels/resnet_140/model.ckpt-170000"
+#model_checkpoint_path: "/home/xg666/Desktop/zdocktrain/savemodels/resnet_140/best_models_36500_0.8478.ckpt"
+all_model_checkpoint_paths: "/home/xg666/Desktop/zdocktrain/savemodels/resnet_140/model.ckpt-162000"
+all_model_checkpoint_paths: "/home/xg666/Desktop/zdocktrain/savemodels/resnet_140/model.ckpt-164000"
+all_model_checkpoint_paths: "/home/xg666/Desktop/zdocktrain/savemodels/resnet_140/model.ckpt-166000"
+all_model_checkpoint_paths: "/home/xg666/Desktop/zdocktrain/savemodels/resnet_140/model.ckpt-168000"
+all_model_checkpoint_paths: "/home/xg666/Desktop/zdocktrain/savemodels/resnet_140/model.ckpt-170000"
